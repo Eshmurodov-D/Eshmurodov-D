@@ -6,9 +6,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=4000&pause=500&color=39FF14&center=true&vCenter=true&width=700&lines=Front-end+Dasturchi;HTML%2FCSS%2FPug%2FPHP%2FJS%2FTS;React%2C+Node.js%2C+Tailwind%2C+Vite;Redux%2C+Next.js%2C+Three.js%2C+SASS%2C+Bootstrap;Telegram+Bot+Dasturchisi;Har+Doim+O‘sishda+va+Innovatsiyada!" alt="Typing SVG" />
-</p>
+
 
 ---
 
