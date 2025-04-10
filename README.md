@@ -4,15 +4,12 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px"/>
 </p>
 
----
-
-
 
 ---
 
 ### 🚀 Texnologiyalar va Ko‘nikmalar:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,pug,php,js,ts,nodejs,react,vite,tailwind,telegram,redux,nextjs,bootstrap,sass,threejs" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=html,css,pug,php,js,ts,nodejs,react,vite,tailwind,telegram,nextjs,bootstrap,sass,threejs" alt="Tech Stack"/>
 </p>
 
 ---
